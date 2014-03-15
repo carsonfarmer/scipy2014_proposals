@@ -1,5 +1,4 @@
-# Pico data:
-## Light-weight real-time event detection at the city level
+# Pico data: Light-weight real-time event detection at the city level
 
 Information pertaining to all facets of society, from public databases such as national census’, to private customer databases, to community-built open data sources, are increasingly being linked to geographical locations. Indeed, as much as 80% of all information held by business and government may be geographically referenced [2,9], and this number is only likely to grow as more organizations realize the importance of locational information [6].
 
